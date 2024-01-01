@@ -69,6 +69,7 @@ body {
 }
 
 .contact-left button {
+    font-family: 'Lexend';
     display: flex;
     align-items: center;
     padding: 15px 30px;
